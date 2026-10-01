@@ -1,0 +1,15 @@
+{
+  "comparison": "Decoded 510-frame render versus current complete main export, every frame",
+  "rangeFrames": 510,
+  "finalFrames": 510,
+  "differentFrames": [],
+  "denseJPEGDifferences": [],
+  "currentMainSHA256": "9b5e94e2548fe406bc214a471a57e8d744221fae993392a5972f1b7097dbaec6",
+  "currentSFXOnlySHA256": "d62bc54aceb60301acb75b2d5e7786f9f62fd4b0d00c7e676b80689ee9a23eee",
+  "videoPacketSHA256": "SHA256=4b40db9003ddcd62162d944759bbd3df887ba1fb03db04d98704a26fb08ad7f8",
+  "technicalReportFrames": 3000,
+  "unexpectedBlackFrames": [],
+  "unexpectedBrightnessJumps": [],
+  "denseJPEGFramesCompared": 182,
+  "videoPacketSHA256IndependentlyMeasured": "4b40db9003ddcd62162d944759bbd3df887ba1fb03db04d98704a26fb08ad7f8"
+}

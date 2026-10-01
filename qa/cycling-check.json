@@ -1,0 +1,19 @@
+{
+  "angularVelocity": {
+    "wheel": -1.6941176470588235,
+    "crank": -3.4
+  },
+  "travelDirection": "+X",
+  "toeDirection": "+X",
+  "samples": 1001,
+  "maxLegLengthError": 3.3306690738754696e-16,
+  "maxOppositePedalError": 5.928593550334434e-17,
+  "maxShoePedalContactError": 5.551115123125783e-17,
+  "minKneeForwardFromHip": 0.28238033750031705,
+  "crankCenter": [
+    0.025,
+    0.425,
+    0
+  ],
+  "crankRadius": 0.115
+}

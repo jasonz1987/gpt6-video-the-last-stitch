@@ -1,0 +1,46 @@
+{
+  "name": "national-day-the-last-stitch",
+  "version": "1.0.0",
+  "description": "An original 100-second National Day story told through a stitch, a bicycle and a window.",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jasonz1987/gpt6-video-the-last-stitch.git"
+  },
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@react-three/drei": "10.7.9",
+    "@react-three/fiber": "9.8.1",
+    "@react-three/postprocessing": "3.1.3",
+    "@remotion/cli": "4.0.530",
+    "@remotion/media": "4.0.530",
+    "@remotion/three": "4.0.530",
+    "@types/three": "0.186.0",
+    "postprocessing": "6.39.5",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.530",
+    "three": "0.186.1"
+  },
+  "devDependencies": {
+    "@remotion/eslint-config-flat": "4.0.530",
+    "@types/react": "19.2.7",
+    "@types/web": "0.0.166",
+    "eslint": "9.39.5",
+    "prettier": "3.8.1",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "dev": "remotion studio",
+    "build": "remotion bundle",
+    "upgrade": "remotion upgrade",
+    "lint": "eslint src && tsc",
+    "typecheck": "tsc --noEmit",
+    "assets": "python3 scripts/prepare-assets.py --with-music",
+    "audio": "python3 scripts/audio-full.py",
+    "render": "node scripts/render.mjs",
+    "stills": "node scripts/render.mjs stills",
+    "check:export": "python3 scripts/check-export.py",
+    "preview": "python3 -m http.server 8773 --bind 127.0.0.1"
+  }
+}

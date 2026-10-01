@@ -1,0 +1,126 @@
+[
+  {
+    "frame": 581,
+    "seconds": 19.37,
+    "duration": 0.55,
+    "source": "needle-through-fabric.mp3",
+    "gainAfterPeakNormalization": 0.22,
+    "action": "needle puncture: source transient aligned to target frame",
+    "targetTransientFrame": 585,
+    "sourcePeakSeconds": 1.46
+  },
+  {
+    "frame": 668,
+    "seconds": 22.27,
+    "duration": 0.55,
+    "source": "needle-through-fabric.mp3",
+    "gainAfterPeakNormalization": 0.195,
+    "action": "needle puncture: source transient aligned to target frame",
+    "targetTransientFrame": 672,
+    "sourcePeakSeconds": 6.04
+  },
+  {
+    "frame": 714,
+    "seconds": 23.8,
+    "duration": 2.6,
+    "source": "needle-through-fabric.mp3",
+    "gainAfterPeakNormalization": 0.063,
+    "action": "thread pulls through fabric"
+  },
+  {
+    "frame": 1113,
+    "seconds": 37.1,
+    "duration": 5.4,
+    "source": "needle-through-fabric.mp3",
+    "gainAfterPeakNormalization": 0.055,
+    "action": "cloth rolling and bundle friction"
+  },
+  {
+    "frame": 1263,
+    "seconds": 42.1,
+    "duration": 2.6,
+    "source": "needle-through-fabric.mp3",
+    "gainAfterPeakNormalization": 0.065,
+    "action": "cord tightening proxy: recorded cloth friction"
+  },
+  {
+    "frame": 1350,
+    "seconds": 45,
+    "duration": 17.0,
+    "source": "bicycle.mp3",
+    "gainAfterPeakNormalization": 0.19,
+    "action": "wheel and pedalling through three continuous street shots"
+  },
+  {
+    "frame": 12,
+    "seconds": 0.4,
+    "duration": 11.5,
+    "source": "morning.mp3",
+    "gainAfterPeakNormalization": 0.045,
+    "action": "air and birds outside the morning window"
+  },
+  {
+    "frame": 2412,
+    "seconds": 80.4,
+    "duration": 19.5,
+    "source": "morning.mp3",
+    "gainAfterPeakNormalization": 0.057,
+    "action": "return to present-day window ambience"
+  },
+  {
+    "frame": 1884,
+    "seconds": 62.8,
+    "duration": 5.4,
+    "source": "needle-through-fabric.mp3",
+    "gainAfterPeakNormalization": 0.036,
+    "action": "rope-friction texture while the flag rises"
+  },
+  {
+    "frame": 2112,
+    "seconds": 70.4,
+    "duration": 2.6,
+    "source": "needle-through-fabric.mp3",
+    "gainAfterPeakNormalization": 0.025,
+    "action": "restrained cloth flutter texture"
+  },
+  {
+    "frame": 2208,
+    "seconds": 73.6,
+    "duration": 2.6,
+    "source": "needle-through-fabric.mp3",
+    "gainAfterPeakNormalization": 0.025,
+    "action": "restrained cloth flutter texture"
+  },
+  {
+    "frame": 2292,
+    "seconds": 76.4,
+    "duration": 2.6,
+    "source": "needle-through-fabric.mp3",
+    "gainAfterPeakNormalization": 0.025,
+    "action": "restrained cloth flutter texture"
+  },
+  {
+    "frame": 2493,
+    "seconds": 83.1,
+    "duration": 2.6,
+    "source": "needle-through-fabric.mp3",
+    "gainAfterPeakNormalization": 0.025,
+    "action": "restrained cloth flutter texture"
+  },
+  {
+    "frame": 2616,
+    "seconds": 87.2,
+    "duration": 2.6,
+    "source": "needle-through-fabric.mp3",
+    "gainAfterPeakNormalization": 0.025,
+    "action": "restrained cloth flutter texture"
+  },
+  {
+    "frame": 2778,
+    "seconds": 92.6,
+    "duration": 2.6,
+    "source": "needle-through-fabric.mp3",
+    "gainAfterPeakNormalization": 0.025,
+    "action": "restrained cloth flutter texture"
+  }
+]
